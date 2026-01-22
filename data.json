@@ -1,0 +1,47 @@
+{
+  "name": "SD dakwerken",
+  "id1": "Antwerpen",
+  "id2": "L13280499",
+  "slug": "SD+dakwerken",
+  "url": "https://www.goudengids.be/bedrijf/Antwerpen/L13280499/SD+dakwerken/",
+  "email": "sddakwerken@gmail.com",
+  "phone": "+32493936148",
+  "internationalPhone": "+32493936148",
+  "address": "Kruisbaanvelden 20",
+  "postalCode": "2170",
+  "city": "Merksem (Antwerpen)",
+  "vatNumber": "BE 0807.677.428",
+  "categories": [
+    "Dakwerkers",
+    "Antwerpen",
+    "Koepels",
+    "Veluxen",
+    "Goten",
+    "Kleine en grote herstellingen",
+    "Renovatie",
+    "Roofing",
+    "Nieuwbouwprojecten"
+  ],
+  "description": "Op een vlotte en vriendelijke manier verder geholpen en daarna de werken uitgevoerd.\nIk zal deze firma zeker nog contacteren.",
+  "reviewCount": 2,
+  "openingHours": {
+    "monday": "0:00 - 24:00",
+    "tuesday": "0:00 - 24:00",
+    "wednesday": "0:00 - 24:00",
+    "thursday": "0:00 - 24:00",
+    "friday": "0:00 - 24:00",
+    "saturday": "0:00 - 24:00",
+    "sunday": "0:00 - 24:00"
+  },
+  "socialMedia": {
+    "facebook": "https://www.facebook.com/SD-Dakwerken-568668800185476"
+  },
+  "searchKeyword": "dakwerkers",
+  "scrapedAt": "2026-01-19T15:02:11.562Z",
+  "region": "flanders",
+  "preferredLanguage": "dutch",
+  "referenceUrl": "https://www.goudengids.be/bedrijf/Antwerpen/L13280499/SD+dakwerken/",
+  "templateId": "C",
+  "seed": 829053061,
+  "generatedAt": "2026-01-22T15:22:48.395Z"
+}
